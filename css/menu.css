@@ -1,0 +1,168 @@
+body {
+    background-color: white;
+}
+
+/* Home Page */
+.head-page-container {
+    position: fixed;
+    bottom: 0%;
+    left: 50%; 
+    transform: translateX(-50%);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 0 auto; 
+    padding: 20px; 
+    z-index: 1; 
+    border: 1px solid white;
+    border-radius: 10px;
+    font-size: 20px;
+    font-family: 'Papyrus', fantasy;
+    max-width: 80%; 
+}
+
+.head-page-container a {
+    color: white;
+    text-decoration: none;
+    padding: 10px 15px;
+    z-index: 1;
+}
+
+.btn.btn-dark {
+    border-radius: 20px;
+}
+
+/* Pizzas */
+.pizza-container {
+    position: fixed;
+    bottom: 30%;
+    left: 10%; 
+    transform: translateX(-50%);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 0 auto; 
+    padding: 20px; 
+    z-index: 1; 
+    border-radius: 10px;
+    font-size: 20px;
+    font-family: 'Papyrus', fantasy;
+    max-width: 80%; 
+}
+.pizza-container a {
+    color: black;
+    text-decoration: none;
+}
+.pizza-container a:hover {
+    text-shadow: 0 0 10px red, 0 0 10px black;
+}
+
+.pizza-container img {
+    height: 200px;
+    position: fixed;
+    bottom: 112%;
+    left: 60%;
+    transform: translateX(-50%);
+}
+/* Burgers */
+.burgers-container {
+    position: fixed;
+    bottom: 40%;
+    left: 35%; 
+    transform: translateX(-50%);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 0 auto; 
+    padding: 20px; 
+    z-index: 1; 
+    border-radius: 10px;
+    font-size: 20px;
+    font-family: 'Papyrus', fantasy;
+    max-width: 80%; 
+}
+.burgers-container a {
+    color: black;
+    text-decoration: none;
+    position: fixed;
+    bottom: 0;
+    top: 102%;
+    left: 30%;
+    
+}
+.burgers-container a:hover {
+    text-shadow: 0 0 10px red, 0 0 10px black;
+}
+
+.burgers-container img {
+    height: 200px;
+}
+
+/* Pastas */
+.pastas-container {
+    position: fixed;
+    bottom: 40%;
+    left: 63%; 
+    transform: translateX(-50%);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 0 auto; 
+    padding: 20px;
+    z-index: 1; 
+    border-radius: 10px;
+    font-size: 20px;
+    font-family: 'Papyrus', fantasy;
+    max-width: 80%; 
+}
+.pastas-container a{
+    color: black;
+    text-decoration: none;
+    position: fixed;
+    bottom: 0;
+    top: 102%;
+    left: 40%;
+    
+}
+.pastas-container a:hover {
+    text-shadow: 0 0 10px red, 0 0 10px black;
+}
+
+.pastas-container img{
+    height: 200px;
+}
+
+/* Drinks */
+.drinks-container {
+    position: fixed;
+    bottom: 40%;
+    left: 90%; 
+    transform: translateX(-50%);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 0 auto; 
+    padding: 20px; 
+    z-index: 1; 
+    border-radius: 10px;
+    font-size: 20px;
+    font-family: 'Papyrus', fantasy;
+    max-width: 80%; 
+}
+
+.drinks-container a {
+    text-decoration: none;
+    color: black;
+    position: fixed;
+    bottom: 0;
+    top: 100%;
+    left: 35%;
+    
+}
+.drinks-container a:hover {
+    text-shadow: 0 0 10px red, 0 0 10px black;
+}
+
+.drinks-container img {
+    height: 200px;
+}

@@ -1,0 +1,51 @@
+body {
+    background-color:white;
+
+}
+
+
+h1 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 20px;
+    left: 40%;
+    bottom: 85%;
+    font-family: 'Papyrus', fantasy;
+    z-index: 1000;
+}
+
+
+
+.pizza-menu-container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    
+    margin: 20px;
+}
+
+.pizza-menu-container img {
+    height: 300px;
+    margin: 100px;
+    
+    
+}
+
+.pizza-menu-container p {
+    text-align: center;
+    color: black;
+    border-radius: 10px;
+    padding: 5px;
+    margin: 0;
+    font-size: 20px;  
+}
+
+.btn {
+    position: fixed;
+    bottom: 90%;
+    border-radius: 20px;
+    margin: 5px;
+    font-family: 'Papyrus', fantasy;
+}

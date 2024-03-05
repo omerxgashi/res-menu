@@ -17,9 +17,6 @@ h1 {
     align-items: center;
 }
 
-header ul {
-    list-style-type: none;
-}
 
 header p {
     font-family: 'Papyrus', fantasy;
@@ -28,33 +25,6 @@ header p {
     justify-content: center;
     align-items: center;
     font-size: 13px;
-}
-
-
-
-#about p {
-    color: white;
-    font-family: 'courier', monospace;
-    font-size: 15px;
-    font-weight:bold;
-    z-index: 1;
-}
-
-section {
-    padding: 20px;
-}
-
-#contact {
-    font-family: 'Papyrus', fantasy;
-    color: #f2f2f2;
-    
-}
-
-#contact, h2 {
-    font-size: 10px;
-    margin: 10px;
-    font-family:'Courier New', Courier, monospace;
-    
 }
 
 

@@ -1,6 +1,7 @@
-NOTE! This is totally a beginner project. Im new into Software Developement and im looking forward to learn and improve. 
+NOTE: This project reflects my beginner level in Software Development. I am new to this field and looking forward to learn and improve.
 
-Thank You! 
+Thank you!
+
 
 Restaurant Menu Website
 

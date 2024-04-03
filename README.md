@@ -1,8 +1,3 @@
-NOTE: This project reflects my beginner level in Software Development. I am new to this field and looking forward to learn and improve.
-
-Thank you!
-
-
 Restaurant Menu Website
 
 This is a simple project where I've created a restaurant menu website using HTML, CSS and a little bit Bootstrap. 
